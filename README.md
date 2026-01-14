@@ -73,14 +73,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📚 PubliShelf</h3>
-      <img src="https://via.placeholder.com/450x250/1a1a1a/ffffff?text=PubliShelf" width="100%" />
+      <img src="./Publishelf.png" width="100%" />
       <p><b>Full-stack marketplace for listing, selling, and auctioning antique books.</b></p>
       <p>• JWT authentication & role-based access<br>• REST APIs with scalable backend<br><b>Tech:</b> React, Node.js, Express, MongoDB</p>
       <p align="center"><a href="https://github.com/vitesh-reddy/PubliShelf_Team" target="_blank"><img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔐 Password Vault</h3>
-      <img src="https://via.placeholder.com/450x250/1a1a1a/ffffff?text=Password+Vault" width="100%" />
+      <img src="./PassVault.png" width="100%" />
       <p><b>Secure password manager with strong encryption.</b></p>
       <p>• AES-256-GCM encrypted vault<br>• JWT-based authentication<br><b>Tech:</b> React, Node.js, Express, MongoDB</p>
       <p align="center">
@@ -92,7 +92,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💸 Finance Tracker</h3>
-      <img src="https://via.placeholder.com/450x250/1a1a1a/ffffff?text=Finance+Tracker" width="100%" />
+      <img src="./FT.png" width="100%" />
       <p><b>Expense tracking app with analytics and dashboards.</b></p>
       <p>• Transaction CRUD & charts<br>• Persistent data storage<br><b>Tech:</b> React, Node.js, Express, MongoDB</p>
       <p align="center">
@@ -102,7 +102,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💘 Swipe-Match</h3>
-      <img src="https://via.placeholder.com/450x250/1a1a1a/ffffff?text=Swipe+Match" width="100%" />
+      <img src="./SwipeMatch.png" width="100%" />
       <p><b>Swipe-based matchmaking app with real-time interactions.</b></p>
       <p>• WebSocket-powered updates<br>• Zustand for state management<br><b>Tech:</b> React, Node.js, MongoDB, Socket.IO</p>
       <p align="center">
