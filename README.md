@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 
-<h1 align="center">I'm Vishnuvardhan Donthoji</h1>
+<h1 align="center">I'm Donthoji Vishnuvardhan</h1>
 
 <p align="center">
   <b>B.Tech Computer Science Undergraduate</b>
